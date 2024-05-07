@@ -4,3 +4,7 @@ pnpm-lock.yaml
 .DS_Store
 .hintrc
 .gitpod.yml 
+git clone https://github.com/imm-stella/Light
+cd light-main
+npm install
+npm start
