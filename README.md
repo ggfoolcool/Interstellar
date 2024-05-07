@@ -78,7 +78,7 @@ As of January 1st, 2024, Replit is [no longer free](https://blog.replit.com/host
 > We are committed to making Interstellar easy and personalized however, as of now we need your support in making it ad-free. Consider keeping ads so Interstellar can run freely or contribute by being a supporter.
 
 ## Report Issues
-
+pnpm i && pnpm start
 If you encounter problems, open an issue on GitHub, and we'll address it promptly.
 
 > [!TIP]
